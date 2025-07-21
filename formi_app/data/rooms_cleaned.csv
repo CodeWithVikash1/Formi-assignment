@@ -1,0 +1,5 @@
+room_name,bedrooms,bathrooms,max_guests,total_rooms,baby_cot,pool,gym,pets,wifi,cook_charges,speciality,issues
+Amani Room,2,2,4,34,True,False,False,False,100 Mbps connection,1500 per meal per person,NA,No additional services allowed
+Amani Premium Rooms,2,2,4,15,True,True,False,False,100 Mbps connection,"Breakfast Free, Dinner and Lunch 1500 per meal per person",NA,No additional services allowed
+Albany Area Rooms,3,4,6,10,True,True,True,False,100 Mbps connection,"Breakfast Free, Dinner and Lunch 1500 per meal per person",NA,No additional services allowed
+Airyland Floor,4,6,8,5,True,True,True,False,100 Mbps connection,All Meals free,NA,Free Spa for 2 members
